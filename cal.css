@@ -1,0 +1,37 @@
+.calculater-1{
+    margin-left: 500px;
+    padding: 30px;
+    box-shadow: 0 0 10px aqua;
+    width: 250px;
+    
+}
+input[type=button]{
+    padding: 20px;
+    margin:  3px;
+    box-shadow: 0 0 20px rgb(13, 192, 174);
+    position: relative;
+    top: 15px;
+}
+.button:hover{
+   background-color:rgba(0, 0, 0, 0.668);
+   color: white;
+}
+input[type=text]{
+    width: 235px;
+    height: 30px;
+    box-shadow: 0 0 10px rgb(11, 201, 211);
+}
+/* .button1{
+    width: 55px;
+}
+.button4{
+position: relative;
+left: 7px;
+} */
+h1{
+    color: aqua;
+    margin-left: 500px;
+    font-size: 70px;
+    text-shadow: 0 0 10px aqua;
+
+}
